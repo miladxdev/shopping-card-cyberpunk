@@ -1,0 +1,26 @@
+Cyberpunk 2077 is a 2020 action role-playing video game developed and published by CD Projekt. It was released for Microsoft Windows, PlayStation 4, Stadia, and Xbox One on 10 December 2020, and will come out for PlayStation 5 and Xbox Series X/S in 2021. Wikipedia
+
+7/10
+Steam
+
+4/5
+TechRadar
+
+Initial release date: 2020
+Engine: REDengine 4
+Platforms: Google Stadia, Xbox One, PlayStation 5, Xbox Series X and Series S, Microsoft Windows
+Developers: CD Projekt, CD Projekt RED
+Designers: Mike Pondsmith, Konrad Tomaszkiewicz
+Publishers: CD Projekt, CD Projekt RED
+star : 3.9;
+
+Requirements
+Cyberpunk 2077 System Requirements
+Minimum requirements:
+OS: 64-bit Windows 7 or 64-bit Windows 10. DirectX® 12 is necessary to run the game.
+Processor: Intel Core i5-3570K or AMD FX-8310. ...
+Graphics: Nvidia GeForce GTX 780 3GB or AMD Radeon RX 470. ...
+RAM: 8 GB.
+Disk space: 70 GB HDD (SSD recommended)
+Recommended requirements:
+OS: 64-bit Windows 10.
