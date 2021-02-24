@@ -10,16 +10,17 @@ body {
     /* background: rgba(252, 238, 10, 1); */
     /* background: rgba(253, 1, 48, 1); */
     /* background: rgba(2, 215, 242, 1); */
+    background: #e4ebf5;
     padding: 130px 0;
 
-background: whitesmoke;
+/* background: whitesmoke; */
 }
 .card {
     position: relative;
     margin: auto;
     overflow: hidden;
-    border-radius: 22px;
-    box-shadow: 0 0 30px 10px rgba(15, 15, 15, .5);
+    border-radius: 20px;
+    box-shadow: 0 0 20px 4px #b6c0ce;
     width: 400px;
     height: 600px;
     background: rgba(15, 15, 15, 1);
